@@ -1,4 +1,4 @@
-## Oi eu sou o Glauber Bispo, estudante de Desenvolvimento Web Full Stack na Labenu!
+## Prazer! Sou Glauber Bispo, estudante de Desenvolvimento Web Full Stack na Labenu
 <div align="center">
   <a href="https://github.com/GlauberBispo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GlauberBispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
