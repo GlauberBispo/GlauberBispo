@@ -1,4 +1,4 @@
-# Prazer! Sou Glauber Bispo, Desenvolvedr Front End.
+# Prazer! Sou Glauber Bispo, Desenvolvedor Front End.
 
 <div align="center"><br>
   <a href="https://github.com/GlauberBispo">
